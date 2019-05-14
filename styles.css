@@ -1,0 +1,105 @@
+body
+{
+ background: rgb(97, 206, 255);
+}
+
+#middle
+{
+background: rgb(57, 128, 255);
+margin: 0px 250px 0px 250px;
+}
+
+.homepage-title
+{
+background: rgb(202, 211, 215);
+color: rgb(182, 79, 160);
+text-shadow: 2px 2px black;
+}
+
+.header
+{
+font-family: Comic Sans MS, sans-serif; 
+text-align: center; 
+border: dotted;
+}
+
+#flo1
+{
+	position: absolute;
+	right: 300px;
+}
+
+#flo2
+{
+	position: absolute;
+	left: 300px;
+	top: 10px;
+}
+
+.links {
+    padding-right: 40px;
+    padding-left: 40px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+#image
+{
+text-align: left; 
+padding-left: 40px;
+position: absolute;
+}
+
+img
+{
+	box-shadow: 6px 4px;
+}
+
+table, th, td {
+width: 600px;
+background: rgb(97, 206, 255);
+border: 4px groove black;
+}
+
+a
+{
+font-size: 2em;
+text-align: center;
+}
+
+#MainInfo1
+{
+	font-family: Comic Sans MS, sans-serif;
+	background: rgb(95,143,249);
+	font-size: 2em;
+	text-align: center;
+	width: 60%;
+	position: relative;
+	left: 120px;
+}
+
+#welcome
+{
+font-family: fantasy;
+color: rgb(216, 101, 211);	
+text-shadow: 2px 2px black;
+}
+
+#MainInfo2
+{
+	font-family: Comic Sans MS, sans-serif;
+	background: rgb(95,143,249);
+	font-size: 1.5em;
+	margin: 30px 30px;
+	text-align: left;
+}
+span
+{
+color: rgb(216, 101, 211);
+text-shadow: 2px 2px black;
+}
+
+address
+{
+	font-size: 1.2em;
+}
